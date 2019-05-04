@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1343514276 source:/home/rodrigo/Projeto/src/class_loader.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"class_loader.h"
+	"auxiliar.h"
+	"globais.h"
+	"funcoes.h"
+
+1343651044 "
+
+1343253205 /home/rodrigo/Projeto/src/class_loader.h
+	<stdio.h>
+	"class.h"
+	"estruturas.h"
+
+1343593570 s.h"
+
+1343167103 /home/rodrigo/Projeto/src/class.h
+
+1343168389 /home/rodrigo/Projeto/src/estruturas.h
+	"class.h"
+
+1343649840 
+
+1343167103 /home/rodrigo/Projeto/src/auxiliar.h
+
+1343606850 /home/rodrigo/Projeto/src/globais.h
+
+1343612525 /home/rodrigo/Projeto/src/funcoes.h
+
+1343613486 source:/home/rodrigo/Projeto/src/execucao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"class.h"
+	"estruturas.h"
+	"globais.h"
+	"execucao.h"
+	"auxiliar.h"
+	"funcoes.h"
+
+1343002698 /home/rodrigo/Projeto/src/execucao.h
+
+1343170053 source:/home/rodrigo/Projeto/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"class.h"
+	"auxiliar.h"
+	"class_loader.h"
+	"estruturas.h"
+	"execucao.h"
+	"globais.h"
+
+1343612950 source:/home/rodrigo/Projeto/src/funcoes.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"estruturas.h"
+	"globais.h"
+	"class.h"
+	"funcoes.h"
+	"auxiliar.h"
+	"math.h"
+	"execucao.h"
+	"class_loader.h"
+
+1343826712 der.h"
+
+1343824441 source:c:\users\marco\desktop\software básico\projetojvm2\src\execucao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"class.h"
+	"estruturas.h"
+	"globais.h"
+	"execucao.h"
+	"auxiliar.h"
+	"funcoes.h"
+
+1343593570 c:\users\marco\desktop\software básico\projetojvm2\src\class.h
+
+1343649840 c:\users\marco\desktop\software básico\projetojvm2\src\estruturas.h
+	"class.h"
+
+1343649840 c:\users\marco\desktop\software básico\projetojvm2\src\globais.h
+
+1343593570 c:\users\marco\desktop\software básico\projetojvm2\src\execucao.h
+
+1343593570 c:\users\marco\desktop\software básico\projetojvm2\src\auxiliar.h
+
+1343828971 c:\users\marco\desktop\software básico\projetojvm2\src\funcoes.h
+
+1343828062 source:c:\users\marco\desktop\software básico\projetojvm2\src\funcoes.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"estruturas.h"
+	"globais.h"
+	"class.h"
+	"funcoes.h"
+	"auxiliar.h"
+	"math.h"
+	"execucao.h"
+	"class_loader.h"
+
+1343593570 c:\users\marco\desktop\software básico\projetojvm2\src\class_loader.h
+	<stdio.h>
+	"class.h"
+	"estruturas.h"
+
+1343789849 source:c:\users\marco\desktop\software básico\projetojvm2\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"class.h"
+	"auxiliar.h"
+	"class_loader.h"
+	"estruturas.h"
+	"execucao.h"
+	"globais.h"
+
+1343651044 source:c:\users\marco\desktop\software básico\projetojvm2\src\class_loader.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"class_loader.h"
+	"auxiliar.h"
+	"globais.h"
+	"funcoes.h"
+
+1343822533 source:/home/alexandre/projects/jvm-sb-2012-1/src/class_loader.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"class_loader.h"
+	"auxiliar.h"
+	"globais.h"
+	"funcoes.h"
+
+1343327680 /home/alexandre/projects/jvm-sb-2012-1/src/class_loader.h
+	<stdio.h>
+	"class.h"
+	"estruturas.h"
+
+1343141879 /home/alexandre/projects/jvm-sb-2012-1/src/class.h
+
+1343656270 /home/alexandre/projects/jvm-sb-2012-1/src/estruturas.h
+	"class.h"
+
+1343776106 /home/alexandre/projects/jvm-sb-2012-1/src/auxiliar.h
+
+1343656270 /home/alexandre/projects/jvm-sb-2012-1/src/globais.h
+
+1343825975 /home/alexandre/projects/jvm-sb-2012-1/src/funcoes.h
+
+1343825975 source:/home/alexandre/projects/jvm-sb-2012-1/src/execucao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"class.h"
+	"estruturas.h"
+	"globais.h"
+	"execucao.h"
+	"auxiliar.h"
+	"funcoes.h"
+
+1343052971 /home/alexandre/projects/jvm-sb-2012-1/src/execucao.h
+
+1343822533 source:/home/alexandre/projects/jvm-sb-2012-1/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"class.h"
+	"auxiliar.h"
+	"class_loader.h"
+	"estruturas.h"
+	"execucao.h"
+	"globais.h"
+

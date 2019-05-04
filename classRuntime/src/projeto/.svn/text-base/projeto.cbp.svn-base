@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="projeto" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/projeto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="/home/alexandre/projects/jvm-sb-2012-1/resource/Classes/Numeric/Double.class" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-std=c99" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/projeto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../auxiliar.h" />
+		<Unit filename="../class.h" />
+		<Unit filename="../class_loader.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../class_loader.h" />
+		<Unit filename="../estruturas.h" />
+		<Unit filename="../execucao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../execucao.h" />
+		<Unit filename="../funcoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../funcoes.h" />
+		<Unit filename="../globais.h" />
+		<Unit filename="../main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
